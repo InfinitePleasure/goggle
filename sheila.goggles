@@ -6,6 +6,9 @@
 
 $discard,site=instagram.com
 $discard,site=pinterest.com
+$discard,site=linkedin.com
+marathon$discard
+
 $boost,site=www.imgmodels.com
 $boost,site=www.unomodels.com
 
