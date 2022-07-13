@@ -5,7 +5,9 @@
 ! avatar: #bd8058
 
 $discard,site=instagram.com
+$discard,site=pinterest.com
 $boost,site=www.imgmodels.com
+$boost,site=www.unomodels.com
 
 sheylapereira
 sheilapereira
